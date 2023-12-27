@@ -27,7 +27,8 @@ print("Total words:",len(words))
 ```
 
 ### OUTPUT:
-![Alt text](292854737-cc322f0f-3a00-4cda-bdc0-a393446243d0.png)
+![292854737-cc322f0f-3a00-4cda-bdc0-a393446243d0](https://github.com/ILAIYADEEPAN/command-line-arguments-to-count-word/assets/147473334/4d311e7b-f7fa-4003-b70e-f3c96eb1061c)
+
 
 
 
